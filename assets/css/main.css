@@ -2045,8 +2045,9 @@
 		}
 
 			.image.featured img {
-				display: block;
-				width: 100%;
+				float: right;
+				width: 20%;
+
 			}
 
 /* Icon */
